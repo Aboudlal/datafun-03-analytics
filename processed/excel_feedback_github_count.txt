@@ -1,1 +1,3 @@
-Occurrences of 'GitHub' in column A: 19
+File: data\Feedback.xlsx
+
+Sheet: Feedback | Rows: 27 | Columns: 6

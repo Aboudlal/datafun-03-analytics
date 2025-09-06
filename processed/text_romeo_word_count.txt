@@ -1,1 +1,23 @@
-Occurrences of 'Romeo': 311
+File: data\romeo.txt
+Top 20 Words:
+
+and: 720
+the: 682
+i: 655
+to: 557
+a: 474
+of: 392
+my: 358
+that: 352
+is: 350
+in: 324
+romeo: 311
+you: 295
+s: 288
+thou: 278
+me: 264
+not: 258
+with: 251
+it: 227
+for: 225
+this: 217

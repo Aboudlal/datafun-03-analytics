@@ -113,3 +113,22 @@
 2025-09-05 22:30:31.610 | INFO     | __main__:<module>:70 - Starting text processing...
 2025-09-05 22:30:31.620 | INFO     | __main__:process_text_file:63 - Processed text file: data\romeo.txt, Word count saved to: processed\text_romeo_word_count.txt
 2025-09-05 22:30:31.620 | INFO     | __main__:<module>:72 - Text processing complete.
+2025-09-06 00:39:32.363 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 00:39:32.364 | INFO     | __main__:main:163 - ======== START abdellah_project (processors only) ========
+2025-09-06 00:39:32.364 | INFO     | __main__:process_csv_happiness:51 - Starting CSV processing (Happiness)…
+2025-09-06 00:39:32.368 | INFO     | __main__:process_csv_happiness:85 - CSV processing complete. Wrote: processed\happiness_ladder_score_stats.txt
+2025-09-06 00:39:32.369 | INFO     | __main__:process_excel_feedback:94 - Starting Excel processing…
+2025-09-06 00:39:32.786 | INFO     | __main__:process_excel_feedback:104 - Excel processing complete. Wrote: processed\excel_feedback_github_count.txt
+2025-09-06 00:39:32.787 | INFO     | __main__:process_json_astronauts_by_craft:113 - Starting JSON processing…
+2025-09-06 00:39:32.789 | INFO     | __main__:process_json_astronauts_by_craft:128 - JSON processing complete. Wrote: processed\json_astronauts_by_craft.txt
+2025-09-06 00:39:32.789 | INFO     | __main__:process_text_romeo_wordcount:137 - Starting TEXT processing…
+2025-09-06 00:39:32.805 | INFO     | __main__:process_text_romeo_wordcount:158 - TEXT processing complete. Wrote: processed\text_romeo_word_count.txt
+2025-09-06 00:39:32.806 | INFO     | __main__:main:169 - Outputs generated:
+2025-09-06 00:39:32.806 | INFO     | __main__:main:170 -  - processed\happiness_ladder_score_stats.txt
+2025-09-06 00:39:32.806 | INFO     | __main__:main:171 -  - processed\excel_feedback_github_count.txt
+2025-09-06 00:39:32.807 | INFO     | __main__:main:172 -  - processed\json_astronauts_by_craft.txt
+2025-09-06 00:39:32.807 | INFO     | __main__:main:173 -  - processed\text_romeo_word_count.txt
+2025-09-06 00:39:32.807 | INFO     | __main__:main:174 - ======== END abdellah_project ========
+2025-09-06 01:04:26.641 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-06 01:04:26.641 | INFO     | __main__:main:117 - === Starting Project ===
+2025-09-06 01:04:26.642 | INFO     | __main__:main:119 - === Project Complete ===

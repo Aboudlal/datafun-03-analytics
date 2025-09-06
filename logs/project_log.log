@@ -97,3 +97,19 @@
 2025-09-05 22:16:45.058 | INFO     | __main__:write_excel_file:61 - Writing Excel data to data\Feedback.xlsx...
 2025-09-05 22:16:45.058 | INFO     | __main__:write_excel_file:65 - SUCCESS: Excel data written to data\Feedback.xlsx
 2025-09-05 22:16:45.058 | INFO     | __main__:fetch_excel_file:49 - SUCCESS: Excel file fetched and saved as Feedback.xlsx
+2025-09-05 22:26:55.673 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-05 22:26:55.673 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-09-05 22:26:55.676 | INFO     | __main__:process_csv_file:89 - Processed CSV file: data\2020_happiness.csv, Statistics saved to: processed\happiness_ladder_score_stats.txt
+2025-09-05 22:26:55.676 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-09-05 22:29:49.573 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-05 22:29:49.573 | INFO     | __main__:<module>:82 - Starting Excel processing...
+2025-09-05 22:29:49.605 | INFO     | __main__:process_excel_file:75 - Processed Excel file: data\Feedback.xlsx, Word count saved to: processed\excel_feedback_github_count.txt
+2025-09-05 22:29:49.606 | INFO     | __main__:<module>:84 - Excel processing complete.
+2025-09-05 22:30:10.557 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-05 22:30:10.557 | INFO     | __main__:<module>:117 - Starting JSON processing...
+2025-09-05 22:30:10.580 | INFO     | __main__:process_json_file:110 - Processed JSON file: data\astros.json, Results saved to: processed\json_astronauts_by_craft.txt
+2025-09-05 22:30:10.581 | INFO     | __main__:<module>:119 - JSON processing complete.
+2025-09-05 22:30:31.610 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-05 22:30:31.610 | INFO     | __main__:<module>:70 - Starting text processing...
+2025-09-05 22:30:31.620 | INFO     | __main__:process_text_file:63 - Processed text file: data\romeo.txt, Word count saved to: processed\text_romeo_word_count.txt
+2025-09-05 22:30:31.620 | INFO     | __main__:<module>:72 - Text processing complete.
